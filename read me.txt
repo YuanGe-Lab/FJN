@@ -1,0 +1,2 @@
+Data for code testing purposes
+GitHub's file size limit of 100.00 MB
